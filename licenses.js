@@ -1,8 +1,6 @@
 // Terra floating-license registry.
 // Managed automatically by license.lsp. Do not edit by hand.
 var TL_LICENSES = [
-"4a580a20:test:2461278.778587:1905617916",
-"5dc5bc5f:sawada:2461279.549699:672086522",
 "5dc5bc5f:konno:2461280.650463:1386735087",
 "4a580a20:test:2461285.605544:562872857",
 "4a580a20:CTI_Yanagita:2461287.432905:151632077",
@@ -15,4 +13,5 @@ var TL_LICENSES = [
 "4a580a20:CTI_numata:2461308.490127:1934648579",
 "4a580a20:yk:2461308.490822:239811449",
 "4a580a20:yoneki:2461308.689549:1801171563",
+"4a580a20:mori:2461309.638507:2014099119",
 ];
